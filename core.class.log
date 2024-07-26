@@ -1,0 +1,465 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3A28D3F8C8F3BFA91EA8',
+    participant: undefined
+  },
+  messageTimestamp: 1721878399,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'Hola',
+  from: '584141967188'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1a129ad-febd-4d99-bde4-08a87a1acd31',
+  keyword: 'key_412b8c94-956a-42f3-9c75-da5de97b41b0',
+  answer: '¡Hola! Soy una asistente virtual, estoy aquí para ayudarte a hacer el proceso más rápido y cómodo para ti 💗',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dffe64e5bd8b62c56195839ce9870b24'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_352349f1-9543-4d28-9fa9-7910f3ad5c0b',
+  keyword: 'ans_a1a129ad-febd-4d99-bde4-08a87a1acd31',
+  answer: '📝 Opciones:\n' +
+    '\n' +
+    '1 – Hablar con atención al cliente.\n' +
+    '2 – Métodos de entrega.\n' +
+    '3 – Pago en cuotas.\n' +
+    '4 – Combos y preventas disponibles.\n' +
+    '5 – No veo un libro en el catálogo.\n' +
+    '\n' +
+    'Escribe el número de la opción a elegir.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2ab31587a3bc7ec80a4e7fd8bdceade4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABD693D18F55CDE7F2B',
+    participant: undefined
+  },
+  messageTimestamp: 1721878402,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '584141967188'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d71eeed-d1d2-4212-a533-4b688974b330',
+  keyword: 'key_4265e09b-977d-479f-a54c-691022a79e31',
+  answer: '📦 ¡Combos disponibles!\n' +
+    '\n' +
+    '– Damián $25 🐇\n' +
+    '(libro original, marcapáginas ¡y una postal firmada por la autora!) 📚\n' +
+    '\n' +
+    '– Damián $30 🔪\n' +
+    '(libro original, marcapáginas, totebag exclusivo de la librería, un póster a color del libro (64 x 39 cm), ¡y una postal firmada por la autora!) 📚\n' +
+    '\n' +
+    '-\n' +
+    '\n' +
+    'Combos $30 c/u\n' +
+    '(sigue mi voz, irresistible error, a través de la lluvia, boulevard: después de él)\n' +
+    '\n' +
+    'Combos $35 c/u\n' +
+    '(lascivia I, lascivia II, lujuria I, el perfume del rey, las cadenas del rey, antes de diciembre, después de diciembre, tres meses, contradicciones y la revelación)\n' +
+    '\n' +
+    '*(dichos combos incluyen cada uno: libro original, un marcapáginas y un totebag referente al libro, ambos exclusivos de la librería)*📚\n' +
+    '\n' +
+    '-\n' +
+    '\n' +
+    '– Chrischel $65 🪖\n' +
+    '(Ambos libros originales de Lascivia, un marcapáginas exclusivo de la librería por cada libro y un totebag de “final chrischel” de regalo)\n' +
+    '\n' +
+    '– Chrischel $100 ❤️‍🔥\n' +
+    '(Los primeros tres libros, originales, un marcapáginas exclusivo de la librería por cada libro, un totebag de “final chrischel” y uno de “primero yo y luego el mundo” de regalo)\n' +
+    '\n' +
+    '– Tres meses 🎬 $100\n' +
+    '(Los primeros tres libros de la saga, originales, un marcapáginas por cada libro, exclusivos de la librería, y una totebag referente a los libros)\n' +
+    '\n' +
+    '– Meses a tu lado 💟  $130\n' +
+    '(Los cuatro libros de la saga, originales, un marcapáginas por cada libro, exclusivos de la librería, y una totebag referente a los libros)\n' +
+    '\n' +
+    'Precios por separado:\n' +
+    'Marcapáginas $2 c/u\n' +
+    'Totebag $5 c/u\n' +
+    '\n' +
+    '📚 ¡Preventas!\n' +
+    '\n' +
+    '¡En este momento no tenemos ninguna preventa en proceso! 💗 (por favor avísanos si deseas alguna en específico)\n' +
+    '\n' +
+    'Envía # si deseas volver al menú de opciones. 📝',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6c1c13644510ada9783a05e64cf901ac'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2D317462CF5D86D2F0',
+    participant: undefined
+  },
+  messageTimestamp: 1721878415,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'SI, graciassssaa',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'SI, graciassssaa',
+  from: '584141967188'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b73184e-ec41-4382-a8b3-8ef916206352',
+  keyword: 'key_8ac56593-1f37-4d8a-a757-062fb3891dba',
+  answer: '¡Excelente! Atención al cliente se comunicará contigo para ayudarte a encontrarlo. ✨\n' +
+    '\n' +
+    'Envía # si deseas volver al menú de opciones. 📝',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'badf57401fe85ecd534aa51feb5b6079'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3A48C0A133B12EC492BA',
+    participant: undefined
+  },
+  messageTimestamp: 1721878426,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias gracias gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias gracias gracias',
+  from: '584141967188'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b73184e-ec41-4382-a8b3-8ef916206352',
+  keyword: 'key_8ac56593-1f37-4d8a-a757-062fb3891dba',
+  answer: '¡Excelente! Atención al cliente se comunicará contigo para ayudarte a encontrarlo. ✨\n' +
+    '\n' +
+    'Envía # si deseas volver al menú de opciones. 📝',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'badf57401fe85ecd534aa51feb5b6079'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE03D298361B7FDD646',
+    participant: undefined
+  },
+  messageTimestamp: 1721878429,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/19937131_918663650082278_2396143885756155592_n.enc?ccb=11-4&oh=01_Q5AaICHEI3RVINRogD5NdMcdWal5t6OQ54ISdvNKrQEo3y23&oe=66C935F8&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/19937131_918663650082278_2396143885756155592_n.enc?ccb=11-4&oh=01_Q5AaICHEI3RVINRogD5NdMcdWal5t6OQ54ISdvNKrQEo3y23&oe=66C935F8&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__d2addb74-39ac-406e-9437-a946870eabed',
+  from: '584141967188'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0C1E5B68F603D24571',
+    participant: undefined
+  },
+  messageTimestamp: 1721878667,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    conversation: 'Me avisas cuando pierdas la parti- digo, ganes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me avisas cuando pierdas la parti- digo, ganes',
+  from: '584141967188'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584141967188@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6642632D8225F84007',
+    participant: undefined
+  },
+  messageTimestamp: 1721878673,
+  pushName: 'Rebeca',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo es para activarlo en la librería',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo es para activarlo en la librería',
+  from: '584141967188'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123399823@s.whatsapp.net',
+    fromMe: false,
+    id: '548EAA4BCF20333F29E8B1B17B6A9EE2',
+    participant: undefined
+  },
+  messageTimestamp: 1721878958,
+  pushName: 'Anto',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/31998067_1001539098295710_3214272922202285574_n.enc?ccb=11-4&oh=01_Q5AaIDxbVLYNELFezvJCQX_zdDYCVA26K78jkDnENjRaOhjx&oe=66C92479&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      title: 'PLANILLA DE INSCRIPCIÓN NUCLEO CARMELITAS.pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 2,
+      mediaKey: [Uint8Array],
+      fileName: 'PLANILLA DE INSCRIPCIÓN NUCLEO CARMELITAS.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/31998067_1001539098295710_3214272922202285574_n.enc?ccb=11-4&oh=01_Q5AaIDxbVLYNELFezvJCQX_zdDYCVA26K78jkDnENjRaOhjx&oe=66C92479&_nc_sid=5e03e0&_nc_hot=1721878957',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/32361938_1168904854395571_575337233995260797_n.enc?ccb=11-4&oh=01_Q5AaIP4cN2JzdN9tytR9gYA-5KYEogggy8I0FzrEpzzn7qVN&oe=66C94F4C&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 480,
+      thumbnailWidth: 370
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_document__cb17d919-7310-4608-9b8f-3cb21d776fd5',
+  from: '584123399823'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123399823@s.whatsapp.net',
+    fromMe: false,
+    id: '2B908281E6974C3B3EDDE7877E978385',
+    participant: undefined
+  },
+  messageTimestamp: 1721879005,
+  pushName: 'Anto',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11427643_1422677508439477_5268768044237603650_n.enc?ccb=11-4&oh=01_Q5AaIC8MhPKq9Z_E3XAJZ9V8w9BbTkIwE0BqbkMZ2i39fZTA&oe=66C9343E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 32,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11427643_1422677508439477_5268768044237603650_n.enc?ccb=11-4&oh=01_Q5AaIC8MhPKq9Z_E3XAJZ9V8w9BbTkIwE0BqbkMZ2i39fZTA&oe=66C9343E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__f21e676a-23d3-41b2-8c53-ef4cba0b94eb',
+  from: '584123399823'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123399823@s.whatsapp.net',
+    fromMe: false,
+    id: 'FDADDFA856EBD5C2123095808A090931',
+    participant: undefined
+  },
+  messageTimestamp: 1721879008,
+  pushName: 'Anto',
+  broadcast: false,
+  message: Message {
+    conversation: 'Porfa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Porfa',
+  from: '584123399823'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123399823@s.whatsapp.net',
+    fromMe: false,
+    id: 'E432B6AC9AE1C892249B68218C31ADA0',
+    participant: undefined
+  },
+  messageTimestamp: 1721879008,
+  pushName: 'Anto',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/22527303_373348242459008_6569264095227694416_n.enc?ccb=11-4&oh=01_Q5AaIFmCWQV3VF12xBGKK__aPQtl5Gu0ejL53HYHrRgkVw6K&oe=66C9374A&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/22527303_373348242459008_6569264095227694416_n.enc?ccb=11-4&oh=01_Q5AaIFmCWQV3VF12xBGKK__aPQtl5Gu0ejL53HYHrRgkVw6K&oe=66C9374A&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__41302e32-dec4-4923-aec2-1e09116c32e4',
+  from: '584123399823'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584123399823@s.whatsapp.net',
+    fromMe: false,
+    id: '44E803B2F502F7F76E887EA3E89618BD',
+    participant: undefined
+  },
+  messageTimestamp: 1721879034,
+  pushName: 'Anto',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11252379_1044378480581756_5574513738812299719_n.enc?ccb=11-4&oh=01_Q5AaIE-Pu0mXDrMtwiWHYpKU0E9X1V5A8P7A7lwO-sXyP4R0&oe=66C94EF1&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 14,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11252379_1044378480581756_5574513738812299719_n.enc?ccb=11-4&oh=01_Q5AaIE-Pu0mXDrMtwiWHYpKU0E9X1V5A8P7A7lwO-sXyP4R0&oe=66C94EF1&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__e9cb7c27-7388-4b15-9707-d9dbffffb2c3',
+  from: '584123399823'
+}
