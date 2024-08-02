@@ -113,8 +113,6 @@ const flowPrincipal = addKeyword(['hola', 'Hola', '¡Hola! Me interesa ver el ca
         'Escribe el número de la opción a elegir.'
     ], null, null, [flowAtencionCliente, flowMetodosEntrega, flowPagoCuotas, flowCombosPreventas, flowNoEncuentroLibro, flowGracias, flowMenu]);
 
-const PORT = process.env.PORT || 3000;
-
 const main = async () => {
     const adapterDB = new MockAdapter();
     const adapterFlow = createFlow([flowPrincipal, flowMenu, flowGracias]);
@@ -126,8 +124,6 @@ const main = async () => {
         database: adapterDB,
     });
 
-    QRPortalWeb().listen(PORT, () => {
-        console.log(`Server is running on port ${PORT}`);
     });
 };
 
